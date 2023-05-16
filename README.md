@@ -1,2 +1,3 @@
-# create-cover-images
-Creates an image for blog posts based on a preset design
+# get-spotify-info
+
+Get details for an album or playlist from the spotify developer's api
